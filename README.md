@@ -1,4 +1,4 @@
-# Aula0 - Jogo 2D Top Down de Esquiva
+# Trabalho G1 - Jogo 2D Top Down de Esquiva
 
 ## Integrantes do Grupo
 
