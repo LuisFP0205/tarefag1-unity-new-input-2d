@@ -230,3 +230,51 @@ A base de gameplay esta implementada:
 - spawn de projeteis com dificuldade progressiva
 - HUD com vidas e cronometro
 - tela de game over com botao de reinicio
+
+---
+
+## Referências de Jogos com Mecânicas Similares
+
+---
+
+### 🎮 Jogo Indie — Cuphead
+
+| | |
+|---|---|
+| **Nome** | Cuphead |
+| **Data de Lançamento** | 29 de setembro de 2017 |
+| **Estúdio** | Studio MDHR |
+
+#### Descrição
+
+Cuphead é um jogo de ação e run-and-gun com visual inspirado nos desenhos animados americanos dos anos 1930. O jogador controla o personagem Cuphead em batalhas contra chefes repletas de projéteis, exigindo movimentação precisa e esquiva constante.
+
+#### Uso do Input System
+
+Por ter sido lançado em 2017, o jogo foi desenvolvido antes do lançamento oficial do Unity New Input System, que ocorreu em 2019. É difícil afirmar com certeza qual sistema de input foi utilizado, já que o Studio MDHR não divulga publicamente detalhes técnicos internos dessa natureza. É possível que o jogo tenha utilizado o sistema legado do Unity ou uma solução própria do estúdio.
+
+#### Relação com o Projeto
+
+A mecânica central de esquiva de projéteis é diretamente relacionada a este projeto, onde o jogador precisa se desviar continuamente de padrões de ataque vindos de múltiplas direções simultaneamente.
+
+---
+
+### 🎮 Jogo AAA — Subnautica
+
+| | |
+|---|---|
+| **Nome** | Subnautica |
+| **Data de Lançamento** | 23 de janeiro de 2018 |
+| **Estúdio** | Unknown Worlds Entertainment |
+
+#### Descrição
+
+Subnautica é um jogo de sobrevivência e exploração subaquática onde o jogador acorda em um planeta alienígena coberto de oceanos e precisa sobreviver coletando recursos, construindo bases e explorando biomas cada vez mais profundos e perigosos.
+
+#### Uso do Input System
+
+Assim como o Cuphead, o Subnautica foi lançado antes do Unity New Input System se tornar disponível em 2019. O estúdio Unknown Worlds Entertainment não divulga abertamente quais ferramentas internas de input foram adotadas, tornando difícil confirmar se houve alguma migração posterior ou uso de solução alternativa.
+
+#### Relação com o Projeto
+
+A relação está no loop de sobrevivência contínua: o jogador não tem como atacar as ameaças diretamente, e sim a missão constante de se manter vivo diante de perigos crescentes no ambiente, conceito central também neste protótipo.
