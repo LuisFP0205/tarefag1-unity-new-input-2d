@@ -1,0 +1,31 @@
+# Unity pastas geradas automaticamente
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Arquivos de cache do Unity
+*.pidb
+*.suo
+*.userprefs
+*.unityproj
+*.booproj
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arquivos de crash
+sysinfo.txt
+crashlytics-build.properties
